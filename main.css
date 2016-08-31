@@ -68,22 +68,27 @@
 
 
  .learn-more{
- 	background-color: #f7f7f7;
+ 	background-color: #777;
+ 	white-space: pre;
  }
 
  .learn-more h3{
 	font-family: 'Shift', san-serif;
 	font-size: 18px;
-	font-weight: bold;
+	font-weight: bolder;
  }
 
+ .learn-more h5{
+	font-family: 'Microsoft JhengHei', san-serif;
+	font-size: 14px;
+	font-weight: bold;
+ }
+  .learn-more p{
+	font-family: 'Microsoft JhengHei', san-serif;
+	font-size: 14px;
+	font-weight: normal;
+ }
  .learn-more a{
 	clear: both;
-	color: #00b0ff;
-	
- }
- .learn-more p{
-	white-space: pre;
-	position: relative;
-	top: 100px;
+	color: #00b0ff;	
  }
