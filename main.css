@@ -52,13 +52,13 @@
  }
 
  .neighborhood-guides{
- 	background-color: #000;
+ 	background-color: #fff;
  	border-bottom: 1px solid #dbdbdb;
  }
 
 .neighborhood-guides h2{
  	color: #393c3d;
- 	font-family: 'Microsoft JhengHei', san-serif;	
+ 	font-family: 'Microsoft JhengHei', sans-serif;	
  	font-size: 24px;
  }
 
@@ -74,24 +74,24 @@
  }
 
  .learn-more h3{
-	font-family: 'Shift', san-serif;
+	font-family: 'Shift', sans-serif;
 	font-size: 18px;
 	font-weight: bolder;
  }
  .learn-more h4{
-	font-family: 'Shift', san-serif;
+	font-family: 'Shift', sans-serif;
 	font-size: 14px;
 	font-weight: bold;
 	text-align: left;
  }
  .learn-more h5{
-	font-family: 'Shift', san-serif;
+	font-family: 'Shift', sans-serif;
 	font-size: 14px;
 	font-weight: bold;
 	text-align: right;
  }
   .learn-more p{
-	font-family: 'Shift', san-serif;
+	font-family: 'Shift', sans-serif;
 	font-size: 14px;
 	font-weight: normal;
  }
