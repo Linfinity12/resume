@@ -58,6 +58,7 @@
 
 .neighborhood-guides h2{
  	color: #393c3d;
+ 	font-family: 'Microsoft JhengHei', san-serif;	
  	font-size: 24px;
  }
 
@@ -77,14 +78,20 @@
 	font-size: 18px;
 	font-weight: bolder;
  }
-
- .learn-more h5{
-	font-family: 'Microsoft JhengHei', san-serif;
+ .learn-more h4{
+	font-family: 'Shift', san-serif;
 	font-size: 14px;
 	font-weight: bold;
+	text-align: left;
+ }
+ .learn-more h5{
+	font-family: 'Shift', san-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: right;
  }
   .learn-more p{
-	font-family: 'Microsoft JhengHei', san-serif;
+	font-family: 'Shift', san-serif;
 	font-size: 14px;
 	font-weight: normal;
  }
