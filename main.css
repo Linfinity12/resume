@@ -74,10 +74,12 @@
  }
 
  .learn-more h3{
+	color: #393c3d;
 	font-family: 'Shift', sans-serif;
 	font-size: 24px;
 	font-weight: bolder;
 	border: 3px solid #cc0000;
+	text-align: center;
 	padding: 10px;
 	margin-left: 1px;
  }
