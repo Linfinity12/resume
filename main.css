@@ -68,12 +68,12 @@
  }
 
 
- .learn-more{
+ .learn-more1{
  	background-color: #efefef;
  	white-space: pre;
  }
 
- .learn-more h3{
+ .learn-more1 h3{
 	color: #393c3d;
 	font-family: 'Shift', sans-serif;
 	font-size: 24px;
@@ -83,24 +83,61 @@
 	padding: 10px;
 	margin-left: 1px;
  }
- .learn-more h4{
+ .learn-more1 h4{
 	font-family: 'Shift', sans-serif;
 	font-size: 18px;
 	font-weight: bold;
 	text-align: left;
  }
- .learn-more h5{
+ .learn-more1 h5{
 	font-family: 'Shift', sans-serif;
 	font-size: 18px;
 	font-weight: bold;
 	text-align: left;
  }
-  .learn-more p{
+  .learn-more1 p{
 	font-family: 'Shift', sans-serif;
 	font-size: 18px;
 	font-weight: normal;
  }
- .learn-more a{
+ .learn-more1 a{
+	clear: both;
+	color: #00b0ff;	
+ }
+
+
+ .learn-more2{
+ 	background-color: #dfdfdf;
+ 	white-space: pre;
+  }
+ .learn-more2 h3{
+	color: #393c3d;
+	font-family: 'Shift', sans-serif;
+	font-size: 24px;
+	font-weight: bolder;
+	border: 3px solid #cc0000;
+	text-align: center;
+	padding: 10px;
+	margin-left: 1px;
+ }
+ .learn-more2 h4{
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+ }
+ .learn-more2 h5{
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+ }
+ .learn-more2 p{
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+ }
+ .learn-more2 a{
 	clear: both;
 	color: #00b0ff;	
  }
